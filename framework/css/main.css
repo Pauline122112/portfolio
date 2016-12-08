@@ -1,0 +1,20 @@
+.description {
+    color:teal;
+}
+* {
+   outline: 1px ;
+}
+* {
+    box-sizing: border-box;
+}
+.screenshot {
+  max-width: 460px;
+  margin-left: 20px;
+}
+
+.description {
+  max-width: 750px;
+  padding: 10px;
+  margin-top: 10px;
+
+}
